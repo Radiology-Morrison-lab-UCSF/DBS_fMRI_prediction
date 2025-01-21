@@ -1,5 +1,7 @@
 # fMRI-DBS_Analysis_DM
 
-The script of fMRI biomarker extraction for David's PD DBS project.
+Repo Contents:
 
-The .xlsx file contains the most up-do-date master spreadsheet for patients' clinical data used in the analysis.
+DBS-fMRI.py --> The script of fMRI biomarker extraction for David's PD DBS project.
+dataOCT.xlsx --> The most up-to-date master spreadsheet for patients' clinical data used in the analysis.
+mappin2.xlsx --> The mapping from patient ID to CONN ID
