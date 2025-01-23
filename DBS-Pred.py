@@ -577,7 +577,7 @@ def find_frequent_pairs(input_dict):
                 if isinstance(pair, list) and len(pair) == 2:
                     pair_count[tuple(pair)] += 1
     
-    # Calculate threshold for >50%
+    # Calculate threshold for >75%
     threshold = total_lists / 1.5
     frequent_pairs = []
     print(pair_count)
