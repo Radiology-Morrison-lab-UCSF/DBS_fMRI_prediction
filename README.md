@@ -1,4 +1,4 @@
-# fMRI-DBS-Prediction
+# DBS_fMRI_prediction
 
 Repo Contents:
 
