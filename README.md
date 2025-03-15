@@ -1,7 +1,3 @@
-# DBS_fMRI_prediction
+# DBS Outcome Prediction Using Resting-State fMRI Connectivity
 
-Repo Contents:
-
-DBS-fMRI.py --> The script of fMRI biomarker extraction for David's PD DBS project.
-dataJAN.xlsx --> The most up-to-date master spreadsheet for patients' clinical data used in the analysis.
-mappin3.xlsx --> The mapping from patient ID to CONN ID
+This repository includes anonymized data and code for doing feature extraction on resting-state fMRI ROI-ROI Pearson's correlations. The code is written in Python. The repository is part of ongoing research in the Radiology-Morrison-lab-UCSF.
