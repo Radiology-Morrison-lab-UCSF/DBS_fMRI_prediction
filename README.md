@@ -7,7 +7,7 @@ This repository includes anonymized data and code for doing feature extraction o
 * `allrois_fc_mar.mat`:
   * This .mat file contains all subjects' ROI-based functional connectivity matrix. The ROIs are extracted using an MNI-based (Zhang et. al. 2018) atlas. Feature extraction is conducted on this matrix.
 * `dataJAN.xlsx`:
-   * This .xlsx file is the master deidentified spreadsheet that contains clinical data for all patients. These data include clinical covariates such as age, sex, etc. in addition to the LEDD scores. All dates (e.g., surgeries and follow-up visits) have been altered, but the time intervals between events remain consistent to ensure accurate calculations.
+   * This .xlsx file is the master deidentified spreadsheet that contains clinical data for all patients. These data include clinical covariates such as age, sex, etc. in addition to the LEDD scores.
 * `mappin3.xlsx`:
    * This .xlsx file contains the information needed to map patient clinical IDs to their CONN toolbox ID post-preprocessing.
 * `DBS-Pred.py`:
