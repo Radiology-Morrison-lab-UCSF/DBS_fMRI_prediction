@@ -15,7 +15,7 @@ This repository includes anonymized data and code for doing feature extraction o
 * `generate_conn.m`:
    * This .m script contains the code used to generate the functional connectivity matrix file from individual subjects' ROI timeseries.
 * `Ex_Subj_ROI.mat`:
-   * This .mat file contains a deidentified example ROI time series file for one of the patients.
+   * This .mat file contains an example ROI time series file for one of the patients.
 
 ## Licenses
 
