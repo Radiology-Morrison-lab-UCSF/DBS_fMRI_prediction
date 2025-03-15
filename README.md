@@ -4,7 +4,7 @@ This repository includes anonymized data and code for doing feature extraction o
 
 ## Contents
 
-* allrois_fc_mar.mat:
+* `allrois_fc_mar.mat`:
   * This .mat file contains all subjects' ROI-based functional connectivity matrix. The ROIs are extracted using an MNI-based (Zhang et. al. 2018) atlas. Feature extraction is conducted on this matrix.
 
 * dataJAN.xlsx:
