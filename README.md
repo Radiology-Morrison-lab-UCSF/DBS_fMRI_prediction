@@ -27,10 +27,10 @@ This repository includes anonymized data and code for doing feature extraction o
 * Copyright 2025 UCSF
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
-http://www.apache.org/licenses/LICENSE-2.0
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 * All code files in this repository are licensed under the Apache License 2.0.
-* `data.xlsx`, `Ex_Subj_ROI.mat`, `allrois_fc_mar.mat` were acquired at the University of California San Francisco and are licensed under the Creative Commons Attribution-   NonCommercial 4.0 International License (CC BY-NC 4.0).
+* `data.xlsx`, `Ex_Subj_ROI.mat`, `allrois_fc_mar.mat` were acquired at the University of California San Francisco and are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Acknowledgments
 
