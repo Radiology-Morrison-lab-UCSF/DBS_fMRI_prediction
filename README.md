@@ -30,7 +30,7 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 http://www.apache.org/licenses/LICENSE-2.0
 
 * All code files in this repository are licensed under the Apache License 2.0.
-* data.xlsx, Ex_Subj_ROI.mat, allrois_fc_mar.mat were acquired at the University of California San Francisco and are licensed under the Creative Commons Attribution-   NonCommercial 4.0 International License (CC BY-NC 4.0).
+* `data.xlsx`, `Ex_Subj_ROI.mat`, `allrois_fc_mar.mat` were acquired at the University of California San Francisco and are licensed under the Creative Commons Attribution-   NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 ## Acknowledgments
 
