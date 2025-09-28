@@ -2,7 +2,7 @@
 
 This repository includes anonymized data and code for doing feature extraction on resting-state fMRI ROI-ROI Pearson's correlations and predicting Parkinson's medication change with DBS. The code is written in Python. The repository is part of ongoing research in the Radiology-Morrison-lab-UCSF.
 
-We kindly ask that you cite our article when using materials from this repository: Mikhael, D., Deutsch, S., Mehta, J. et al. Preoperative Functional Connectivity Predicts Antiparkinson Drug Change after Deep Brain Stimulation. Mov Disord (2025).  https://doi.org/10.1002/mds.70063:
+We kindly ask that you cite our article when using materials from this repository: **Mikhael, D., Deutsch, S., Mehta, J. et al. Preoperative Functional Connectivity Predicts Antiparkinson Drug Change after Deep Brain Stimulation. Mov Disord (2025).  https://doi.org/10.1002/mds.70063**:
 
 ## Contents
 
